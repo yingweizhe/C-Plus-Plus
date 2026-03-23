@@ -1,9 +1,15 @@
 <map id="math/complex_numbers.cpp" name="math/complex_numbers.cpp">
-<area shape="rect" id="node1" title="An implementation of Complex Number as Objects." alt="" coords="163,5,350,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,71,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="95,80,154,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="179,80,249,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="273,80,328,107"/>
-<area shape="rect" id="node6" title=" " alt="" coords="353,80,425,107"/>
-<area shape="rect" id="node7" title=" " alt="" coords="449,80,528,107"/>
+<area shape="rect" id="Node000001" title="An implementation of Complex Number as Objects." alt="" coords="161,5,346,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,70,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,34,85,78,84,73,216,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,79,152,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,31,159,74,157,69,229,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,79,246,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,30,228,68,224,63,244,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="270,79,323,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,29,284,66,279,65,259,34"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="347,79,418,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="276,29,350,71,345,71,275,34"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="442,79,521,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="293,29,431,73,425,74,292,34"/>
 </map>

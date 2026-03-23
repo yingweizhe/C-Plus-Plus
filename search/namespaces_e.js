@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['palindrome_5fpartitioning_3092',['palindrome_partitioning',['../d5/d89/namespacepalindrome__partitioning.html',1,'']]],
-  ['pancake_5fsort_3093',['pancake_sort',['../df/d10/namespacepancake__sort.html',1,'']]],
-  ['postfix_5fexpression_3094',['postfix_expression',['../d4/de6/namespacepostfix__expression.html',1,'']]]
+  ['operations_5fon_5fdatastructures_0',['operations_on_datastructures',['../da/d6d/namespaceoperations__on__datastructures.html',1,'']]],
+  ['others_1',['others',['../d0/d6f/namespaceothers.html',1,'']]],
+  ['others_3a_3acache_2',['Cache',['../db/dde/namespaceothers_1_1_cache.html',1,'others']]]
 ];
